@@ -1,5 +1,4 @@
-
-export default BancoDados = [
+ [
     {id:0,  nome:"STRADA", descricao:" Versão : RANCH AT, Ar-condicionado automático digital, Wirelless charger,Câmbio Automatico, Airbags Laterais, Camera de ré, Capacidade de 600 Kg, Motores Firefly( Melhor consumo de combustivel, Gasolina, Ano:2022 " ,valor: 80.00, imagem: strada}, 
     {id:1,  nome:"PULSE ABARTH",descricao:"Versão: TURBO 270 FLEX AP, Câmera Traseira ,Faróis De Neblina Dianteiros, Freio De Estacionamento Eletrônico,Piloto Automático (cruise Control),Computador De Bordo,Direção Elétrica,Wireless Charger, Câmbio Automático De 6 Marchas, Ano:2023" ,valor: 100.00, imagem:abarth },
     {id:2,  nome:"NEW TUCSON",descricao:" Motor: 1,6 Gamma T-GDI (G4FJ),Gasolina, Tração:FWD (4x2) (Dianteira),Ar condicionado (Dual Zone ), Entrada para iPod/USB 2.0/Auxiliar, Faróis em LED com fita em LED, Teto solar panorâmico com sistema antiesmagamento,Airbags(condutor, passageiro e laterais),Retrovisores externos com comando elétrico, Câmera de ré ,Painel de bordo Super Vision 4.2.TFT LCD, Ano: 2021", valor: 70.00, imagem:newTucson},
